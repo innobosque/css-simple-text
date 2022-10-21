@@ -34,3 +34,7 @@ Observa el resultado. Si la captura no coincide con el mismo intenta adaptarlo l
 
 __No tengas en cuenta el ancho de los párrafos puesto que estos varían según la resolución de pantalla o tamaño de pantalla__
 
+## Resultado
+
+![Resultado](/design/screenshot.png)
+
