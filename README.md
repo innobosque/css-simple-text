@@ -6,26 +6,21 @@ Escribe las etiquetas html oportunas
 ## Typography
 
 ### Body Copy
-
 - Font size: 1em
-En los párrafos el tamaño será 0.9em
-Los encabezados principales (h1) tamaño x-large
 
+### Párrafos
+Fuente 0.9em y Verdana
 
-### Font
-
-- Family: Preferiblemente Verdana que es de tipo Sans Serif
-- Los párrafos tendran aparte pertenecerán a la familia Verdana
-- Weights: 500, 600
-
+### Encabezados
+Tamaño x-large
 
 ### Peculiaridades
 El párrafo
 >Ya hemos visto que Excel se utiliza principalmente para introducir datos, ya sean datos literales o fórmulas. En este tema, nos centraremos centrar en algunas de las operaciones típicas que se pueden realizar sobre ellos.
-- Tendrá un nombre de clase llamado _primero_
+- Tendrá un nombre de clase llamado __primero__
 - Este párrafo tendrá un tamaño de 12px
-- Fuente itálica y negrita
-- Fuente "times new roman". Poner la familia genérica a la que pertene (serif ó sans-serif)
+- Estilo itálica y grosor bold
+- Fuente "Times New Roman"
 - texto centrado
 
 El siguiente párrafo
@@ -34,5 +29,6 @@ El siguiente párrafo
 - Será igual que el párafo _primero_ pero con alineación justificada
 
 ## Último vistazo
-Si se me olvidó algo intenta que tu diseño se parezca lo máximo a lo expuesto anteriormente.
+Observa el resultado. Si la captura no coincide con el mismo intenta adaptarlo lo mejor posible.
+__No tengas en cuenta el ancho de los párrafos puestos que estos varían según la resolución de pantalla o tamaño de pantalla__
 
